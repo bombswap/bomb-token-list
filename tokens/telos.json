@@ -57,14 +57,6 @@
   },
   {
     "chainId": 40,
-    "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
-    "decimals": 18,
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/telos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg"
-  },
-  {
-    "chainId": 40,
     "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "decimals": 18,
     "name": "Polygon",
