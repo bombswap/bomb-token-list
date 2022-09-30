@@ -32,7 +32,7 @@ const moonbeam = require("../tokens/moonbeam.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "SushiSwap Menu",
+    name: "BOMB Tokens",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -41,8 +41,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bomb-256.png",
+    keywords: ["bomb", "default"],
     tokens: [
       ...mainnet,
       ...ropsten,
