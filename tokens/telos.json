@@ -48,14 +48,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/telos/0x922D641a426DcFFaeF11680e5358F34d97d112E1.jpg"
   },
   {
-    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-    "chainId": 40,
-    "name": "Binance Coin",
-    "symbol": "BNB",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/telos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e.jpg"
-  },
-  {
     "chainId": 40,
     "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
     "decimals": 18,

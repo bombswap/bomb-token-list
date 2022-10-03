@@ -56,14 +56,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg"
   },
   {
-    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-    "chainId": 1284,
-    "name": "Sushi",
-    "symbol": "anySUSHI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-  },
-  {
     "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
     "chainId": 1284,
     "name": "Frax",
