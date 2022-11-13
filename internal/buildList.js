@@ -14,6 +14,7 @@ const bsc = require("../tokens/bsc.json");
 // const bscTestnet = require("../tokens/bsc-testnet.json");
 // const moonbase = require("../tokens/moonbase.json");
 const avalanche = require("../tokens/avalanche.json");
+const bombTestnet = require("../tokens/bomb-testnet.json");
 // const fuji = require("../tokens/fuji.json");
 // const heco = require("../tokens/heco.json");
 // const hecoTestnet = require("../tokens/heco-testnet.json");
@@ -58,6 +59,7 @@ module.exports = function buildList() {
       // ...bscTestnet,
       // ...moonbase,
       ...avalanche,
+      ...bombTestnet,
       // ...fuji,
       // ...heco,
       // ...hecoTestnet,

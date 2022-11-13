@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wrapped BOMB",
+    "address": "0xc0B8485449248c054D5e8E98c1f2cc7B4031BD4c",
+    "symbol": "WBOMB",
+    "decimals": 18,
+    "chainId": 2399,
+    "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bomb-200x200.png"
+  },
+  {
+    "address": "0xB7e1E341b2CBCc7d1EdF4DC6E5e962aE5C621ca5",
+    "chainId": 2399,
+    "name": "SWAP BOMB",
+    "symbol": "SBOMB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bomb-200x200.png"
+  },
+  {
+    "address": "0x9C57b72331FE5c14CF3253957ec90634aF913180",
+    "chainId": 2399,
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg"
+  }
+]
