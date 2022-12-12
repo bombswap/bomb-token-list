@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 2300,
     "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bombswap.jpeg"
+  },
+  {
+    "name": "USD BOMB",
+    "address": "0xca2de0ad1a82F78d42284774411F336f2550E7F5",
+    "symbol": "USDB",
+    "decimals": 18,
+    "chainId": 2300,
+    "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/BUSM-ICON.png"
   }
 ]
