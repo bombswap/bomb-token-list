@@ -9,7 +9,7 @@ const fantom = require("../tokens/fantom.json");
 // const fantomTestnet = require("../tokens/fantom-testnet.json");
 const matic = require("../tokens/matic.json");
 // const maticTestnet = require("../tokens/matic-testnet.json");
-const xdai = require("../tokens/xdai.json");
+const bomb = require("../tokens/bomb.json");
 const bsc = require("../tokens/bsc.json");
 // const bscTestnet = require("../tokens/bsc-testnet.json");
 // const moonbase = require("../tokens/moonbase.json");
@@ -50,6 +50,7 @@ module.exports = function buildList() {
       // ...goerli,
       // ...kovan,
       // ...rinkeby,
+      ...bomb,
       ...fantom,
       // ...fantomTestnet,
       ...matic,
