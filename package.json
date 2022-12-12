@@ -1,6 +1,6 @@
 {
   "name": "@pegswap/default-token-list",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "◦ The PegHub Swap default token list",
   "main": "build/bomb-default.tokenlist.json",
   "scripts": {
