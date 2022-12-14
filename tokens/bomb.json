@@ -48,9 +48,9 @@
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
-    "name": "ETH",
+    "name": "Ethereum Token",
     "address": "0x128E2b86F42BDB3B646D9B9666B8F8E9cdcEC495",
-    "symbol": "ETH",
+    "symbol": "WETH",
     "decimals": 18,
     "chainId": 2300,
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"

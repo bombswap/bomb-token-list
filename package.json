@@ -1,7 +1,7 @@
 {
-  "name": "@pegswap/default-token-list",
+  "name": "@bombmoney/default-token-list",
   "version": "3.0.1",
-  "description": "◦ The PegHub Swap default token list",
+  "description": "◦ The BOMB Swap default token list",
   "main": "build/bomb-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryptopeghub/bomb-token-list.git"
+    "url": "git+https://github.com/bombmoney/bomb-token-list.git"
   },
   "publishConfig": {
     "access": "public",
@@ -30,9 +30,9 @@
   "author": "Matthew Lilley <hello@matthewlilley.com>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/cryptopeghub/bomb-token-list/issues"
+    "url": "https://github.com/bombmoney/bomb-token-list/issues"
   },
-  "homepage": "https://github.com/cryptopeghub/bomb-token-list#readme",
+  "homepage": "https://github.com/bombmoney/bomb-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",
