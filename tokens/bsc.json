@@ -184,14 +184,6 @@
     "logoURI": "https://swap.peghub.com/images/tokens/0xA13f7CC7Ff61A39Cd544942CC9FabF46EF73ebfD.png"
   },
   {
-    "name": "BabyPham BSHARES",
-    "symbol": "BABYPHAM",
-    "address": "0x9B9f796B177bEFed452aF8a69Bf24fd94bEc2d44",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/babypham.png"
-  },
-  {
     "name": "Binance-Peg USD Coin",
     "symbol": "USDC",
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
