@@ -16,8 +16,8 @@
     "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/xbombswap.png"
   },
   {
-    "name": "USDC",
-    "address": "0x0889cE27aDE6231a9820E34bA6E68fc0142b8d18",
+    "name": "USDC ANKR",
+    "address": "0x75942DD8bD0C6F845a647E0Fa157b5725077960D",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 2300,
@@ -56,8 +56,8 @@
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png"
   },
   {
-    "name": "USDT",
-    "address": "0xAde84DAC4E7DcE63e676131c96626f6923211429",
+    "name": "Tether USD ANKR",
+    "address": "0x0FCbc0baCaD8C73be4Fad141682542b44C4737bB",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 2300,
