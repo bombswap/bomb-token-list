@@ -1,5 +1,13 @@
 [
   {
+    "name": "PegHub",
+    "symbol": "PHUB",
+    "address": "0x27Efe14C951631aF75C4c6B618EFA03634aFb5D0",
+    "chainId": 2300,
+    "decimals": 18,
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8.png"
+  },
+  {
     "name": "BOMB SWAP",
     "address": "0xaC029BF2871b3f810AAbF836Adc4F89369027971",
     "symbol": "BOMBSWAP",

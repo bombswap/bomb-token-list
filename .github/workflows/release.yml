@@ -22,7 +22,7 @@ jobs:
         with:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
-          scope: '@pegswap'
+          scope: '@bombswap'
           cache: 'yarn'
       - run: yarn
       - run: yarn test

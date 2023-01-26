@@ -29,7 +29,7 @@
     "address": "0x9F45C43c5Ed3c1a7FD7fb9f3b611860AE4dF2453",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x9F45C43c5Ed3c1a7FD7fb9f3b611860AE4dF2453.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x9F45C43c5Ed3c1a7FD7fb9f3b611860AE4dF2453.png"
   },
   {
     "name": "bitATOM",
@@ -37,7 +37,7 @@
     "address": "0x3CdC14690B4930f8b61A2195062f5AB8A6beC48d",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x3CdC14690B4930f8b61A2195062f5AB8A6beC48d.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x3CdC14690B4930f8b61A2195062f5AB8A6beC48d.png"
   },
   {
     "name": "bitBTC",
@@ -45,7 +45,7 @@
     "address": "0x39739A969ff667C91a81252b3DDDFAe31aaE4Aeb",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x39739A969ff667C91a81252b3DDDFAe31aaE4Aeb.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x39739A969ff667C91a81252b3DDDFAe31aaE4Aeb.png"
   },
   {
     "name": "bitDOT",
@@ -53,7 +53,7 @@
     "address": "0x123c62f04c9D70bD6F04E6282434c728F04eBD50",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x123c62f04c9D70bD6F04E6282434c728F04eBD50.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x123c62f04c9D70bD6F04E6282434c728F04eBD50.png"
   },
   {
     "name": "bitSHARE",
@@ -61,7 +61,7 @@
     "address": "0x116B19FBAFCc947E7Ffcc3A42ff7185589143a56",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x116B19FBAFCc947E7Ffcc3A42ff7185589143a56.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x116B19FBAFCc947E7Ffcc3A42ff7185589143a56.png"
   },
   {
     "name": "BOMB",
@@ -69,7 +69,7 @@
     "address": "0x522348779DCb2911539e76A1042aA922F9C47Ee3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x522348779DCb2911539e76A1042aA922F9C47Ee3.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x522348779DCb2911539e76A1042aA922F9C47Ee3.png"
   },
   {
     "name": "BBOND",
@@ -77,7 +77,7 @@
     "address": "0xDA1d9C79240003195d0a67f202efcCCC3F78b994",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0xDA1d9C79240003195d0a67f202efcCCC3F78b994.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0xDA1d9C79240003195d0a67f202efcCCC3F78b994.png"
   },
   {
     "name": "BSHARE",
@@ -85,7 +85,7 @@
     "address": "0x531780FAcE85306877D7e1F05d713D1B50a37F7A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x531780FAcE85306877D7e1F05d713D1B50a37F7A.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x531780FAcE85306877D7e1F05d713D1B50a37F7A.png"
   },
   {
     "name": "BTCB Token",
@@ -109,7 +109,7 @@
     "address": "0x6216B17f696B14701E17BCB24Ec14430261Be94A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x6216B17f696B14701E17BCB24Ec14430261Be94A.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x6216B17f696B14701E17BCB24Ec14430261Be94A.png"
   },
   {
     "name": "CZbnb",
@@ -117,7 +117,7 @@
     "address": "0xf43fffb83D7C73275c2feaAC15D5670f7D739B50",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0xf43fffb83D7C73275c2feaAC15D5670f7D739B50.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0xf43fffb83D7C73275c2feaAC15D5670f7D739B50.png"
   },
   {
     "name": "CZbomb",
@@ -125,7 +125,7 @@
     "address": "0x737BC70D07aA6B7f4Ba6d12B45E8CDDBa2446B77",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x737BC70D07aA6B7f4Ba6d12B45E8CDDBa2446B77.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x737BC70D07aA6B7f4Ba6d12B45E8CDDBa2446B77.png"
   },
   {
     "name": "CZbusd",
@@ -133,7 +133,7 @@
     "address": "0xa2A3Be47bEb973d48401010742D5E442177d037B",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0xa2A3Be47bEb973d48401010742D5E442177d037B.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0xa2A3Be47bEb973d48401010742D5E442177d037B.png"
   },
   {
     "name": "CZemp",
@@ -141,7 +141,7 @@
     "address": "0xa700Ec63f9D3D9A03981CF7F8Eb805c444EDBC21",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0xa700Ec63f9D3D9A03981CF7F8Eb805c444EDBC21.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0xa700Ec63f9D3D9A03981CF7F8Eb805c444EDBC21.png"
   },
   {
     "name": "CZshares",
@@ -149,7 +149,7 @@
     "address": "0x8169a36EC368882207515D6F509A2E7Fc74203d3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x8169a36EC368882207515D6F509A2E7Fc74203d3.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x8169a36EC368882207515D6F509A2E7Fc74203d3.png"
   },
   {
     "name": "Polkadot Token",
@@ -165,7 +165,7 @@
     "address": "0x3b248CEfA87F836a4e6f6d6c9b42991b88Dc1d58",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x3b248CEfA87F836a4e6f6d6c9b42991b88Dc1d58.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x3b248CEfA87F836a4e6f6d6c9b42991b88Dc1d58.png"
   },
   {
     "name": "PegHub",
@@ -173,7 +173,7 @@
     "address": "0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8.png"
   },
   {
     "name": "BabyPHUB",
@@ -181,7 +181,7 @@
     "address": "0xA13f7CC7Ff61A39Cd544942CC9FabF46EF73ebfD",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://swap.peghub.com/images/tokens/0xA13f7CC7Ff61A39Cd544942CC9FabF46EF73ebfD.png"
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0xA13f7CC7Ff61A39Cd544942CC9FabF46EF73ebfD.png"
   },
   {
     "name": "Binance-Peg USD Coin",
