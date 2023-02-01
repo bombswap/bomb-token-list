@@ -8,6 +8,22 @@
     "logoURI": "https://www.bombswap.xyz/images/tokens/0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8.png"
   },
   {
+    "name": "BOHM.MONEY",
+    "symbol": "BOHM",
+    "address": "0x2C6a12d0fAFc78Ff1F7cf8a37F949601c6c8c0ae",
+    "chainId": 2300,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bombswap/0x2c6a12d0fafc78ff1f7cf8a37f949601c6c8c0ae.png"
+  },
+  {
+    "name": "SuperBomb",
+    "symbol": "sBOMB",
+    "address": "0x2a4a10237CBec8ef5FFe4eE4770D467966c4FEc4",
+    "chainId": 2300,
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bombswap/0x2a4a10237cbec8ef5ffe4ee4770d467966c4fec4.png"
+  },
+  {
     "name": "BOMB SWAP",
     "address": "0xaC029BF2871b3f810AAbF836Adc4F89369027971",
     "symbol": "BOMBSWAP",
