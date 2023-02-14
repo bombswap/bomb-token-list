@@ -1,10 +1,10 @@
 {
   "name": "BOMB Tokens",
-  "timestamp": "2023-02-01T22:09:47.711Z",
+  "timestamp": "2023-02-14T18:57:00.568Z",
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 7
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bomb-256.png",
@@ -164,6 +164,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://www.bombswap.xyz/images/tokens/0xa700Ec63f9D3D9A03981CF7F8Eb805c444EDBC21.png"
+    },
+    {
+      "name": "CZeth",
+      "symbol": "CZETH",
+      "address": "0xbaBC232Ad871f36A6487C2dC117CbB4f2970EaA0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://www.bombswap.xyz/images/tokens/0xbaBC232Ad871f36A6487C2dC117CbB4f2970EaA0.png"
     },
     {
       "name": "CZshares",
@@ -1430,6 +1438,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
     },
     {
+      "name": "bitBOMB Share Token",
+      "symbol": "bitSHARE",
+      "address": "0x36e3eC21e523BA0A08308154925D9bF2D5A67194",
+      "chainId": 2300,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bombswap/0x36e3ec21e523ba0a08308154925d9bf2d5a67194.png"
+    },
+    {
       "name": "BNB",
       "address": "0xfA74D6D13575751C2eb3d4960CD2A164303893d2",
       "symbol": "BNB",
@@ -1468,6 +1484,14 @@
       "decimals": 18,
       "chainId": 2300,
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b/logo.png"
+    },
+    {
+      "name": "CZpegs Share Token",
+      "symbol": "CZshare",
+      "address": "0x9c3AE689eE6907F7CF3b09834596aB42f83b8Db9",
+      "chainId": 2300,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bombswap/0x9c3ae689ee6907f7cf3b09834596ab42f83b8db9.png"
     },
     {
       "name": "LINK",

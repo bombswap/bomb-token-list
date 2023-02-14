@@ -136,6 +136,14 @@
     "logoURI": "https://www.bombswap.xyz/images/tokens/0xa2A3Be47bEb973d48401010742D5E442177d037B.png"
   },
   {
+    "name": "CZeth",
+    "symbol": "CZETH",
+    "address": "0xbaBC232Ad871f36A6487C2dC117CbB4f2970EaA0",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0xbaBC232Ad871f36A6487C2dC117CbB4f2970EaA0.png"
+  },
+  {
     "name": "CZemp",
     "symbol": "CZEMP",
     "address": "0xa700Ec63f9D3D9A03981CF7F8Eb805c444EDBC21",
