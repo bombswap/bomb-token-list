@@ -88,6 +88,14 @@
     "logoURI": "https://www.bombswap.xyz/images/tokens/0x531780FAcE85306877D7e1F05d713D1B50a37F7A.png"
   },
   {
+    "name": "B2SHARE",
+    "symbol": "B2SHARE",
+    "address": "0x0DF73831C00B157bB0FeD3c06eB475F201B64a78",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://www.bombswap.xyz/images/tokens/0x0DF73831C00B157bB0FeD3c06eB475F201B64a78.png"
+  },
+  {
     "name": "BTCB Token",
     "symbol": "BTCB",
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",

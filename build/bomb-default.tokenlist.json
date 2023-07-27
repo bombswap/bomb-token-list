@@ -1,10 +1,10 @@
 {
   "name": "BOMB Tokens",
-  "timestamp": "2023-02-14T18:57:00.568Z",
+  "timestamp": "2023-07-27T09:51:26.480Z",
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/bombmoney/bomb-assets/master/bomb-256.png",
@@ -28,6 +28,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/cosmos_32.png"
+    },
+    {
+      "name": "B2SHARE",
+      "symbol": "B2SHARE",
+      "address": "0x0DF73831C00B157bB0FeD3c06eB475F201B64a78",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://www.bombswap.xyz/images/tokens/0x0DF73831C00B157bB0FeD3c06eB475F201B64a78.png"
     },
     {
       "name": "BabyPHUB",
